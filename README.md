@@ -1,2 +1,1 @@
-# TAIRP
-TECH-A-INTERN internship
+ internship
